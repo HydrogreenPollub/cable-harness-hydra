@@ -66,6 +66,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XFXQUVBD
 
+[Document2]
+DocumentPath=BatteryPowerHarness.WirDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=THBSFLOU
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1025,7 +1042,7 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
