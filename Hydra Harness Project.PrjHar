@@ -69,6 +69,23 @@ GenerateClassCluster=0
 DocumentUniqueId=THBSFLOU
 
 [Document2]
+DocumentPath=Add new harness.WirDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DYNFUEWT
+
+[Document3]
 DocumentPath=BatteryPowerHarness.LdrDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
