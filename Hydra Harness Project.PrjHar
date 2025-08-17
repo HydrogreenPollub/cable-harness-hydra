@@ -69,7 +69,7 @@ GenerateClassCluster=0
 DocumentUniqueId=THBSFLOU
 
 [Document2]
-DocumentPath=Add new harness.WirDoc
+DocumentPath=MainPowerHarness.WirDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
