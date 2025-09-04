@@ -69,6 +69,23 @@ GenerateClassCluster=0
 DocumentUniqueId=THBSFLOU
 
 [Document2]
+DocumentPath=PcbConnectoins.WirDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MVXEQKYE
+
+[Document3]
 DocumentPath=MainPowerHarness.WirDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -85,7 +102,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DYNFUEWT
 
-[Document3]
+[Document4]
 DocumentPath=MasterConnections.WirDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -102,7 +119,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EGLZMMHQ
 
-[Document4]
+[Document5]
 DocumentPath=BatteryPowerHarness.LdrDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -118,6 +135,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CLTIWQEC
+
+[Parameter1]
+Name=eee
+Value=3
 
 [Configuration1]
 Name=Sources
