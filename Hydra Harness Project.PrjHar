@@ -86,6 +86,23 @@ GenerateClassCluster=0
 DocumentUniqueId=MVXEQKYE
 
 [Document3]
+DocumentPath=FrontConnections.WirDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LJGHHFHV
+
+[Document4]
 DocumentPath=MainPowerHarness.WirDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -102,7 +119,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DYNFUEWT
 
-[Document4]
+[Document5]
 DocumentPath=MasterConnections.WirDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -119,7 +136,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EGLZMMHQ
 
-[Document5]
+[Document6]
 DocumentPath=BatteryPowerHarness.LdrDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
